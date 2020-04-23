@@ -9,10 +9,10 @@ body {
   min-width: 100%;
   background: linear-gradient(pink, violet);
 }
-
+/* 
 button {
   font-size: 7px;
-}
+} */
 
 #main-content {
   position: relative;
@@ -35,3 +35,8 @@ button {
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
 }
+.list-item{
+  float: right;
+  
+}
+
